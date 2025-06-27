@@ -6,7 +6,7 @@
       "settings": {
         "clients": [
           {
-            "id": "d2cb8181-233c-4d18-9972-8a1b04db0044",
+            "id": "6ab14401-c1da-441a-a205-1c29865e32fc",
             "level": 0
           }
         ],
@@ -15,7 +15,7 @@
       "streamSettings": {
         "network": "ws",
         "wsSettings": {
-          "path": "/personalizado"
+          "path": "/fbri8VEB/"
         }
       }
     }
